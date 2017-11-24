@@ -2,6 +2,8 @@
 
 Personal config with custom theme and battery icon in tmux status-right.
 
+Fast links: [Installation](#installation) > [What's included](#whats-included) > [Credits & License](#credits--license)
+
 ## Installation
 
 ### Dependencies
