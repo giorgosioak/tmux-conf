@@ -12,26 +12,12 @@ Fast links: [Installation](#installation) > [What's included](#whats-included) >
 
 ### Manual Installation
 
-Clone the repo:
-
-    $ git clone https://github.com/giorgosioak/tmux-conf.git ~/clone/path
-    $ cd ~/clone/path
-
-Backup your current config:
-
-    $ mv ~/.tmux.conf ~/.tmux.conf.backup
-
-Copy files to ~ :
-
-    $ mv .tmux.conf .tmux ~
-
-Reload TMUX environment:
-
-    $ tmux source-file ~/.tmux.conf
-
-You can safely remove ~/clone/path
-    
-    $ rm -r ~/clone/path 
+    $ git clone https://github.com/giorgosioak/tmux-conf.git ~/clone/path   # Clone the repo
+    $ cd ~/clone/path                                                       # Cd to folder
+    $ mv ~/.tmux.conf ~/.tmux.conf.backup                                   # Backup your current config
+    $ mv .tmux.conf .tmux ~                                                 # Copy files to ~ 
+    $ tmux source-file ~/.tmux.conf                                         # Reload TMUX environment
+    $ rm -r ~/clone/path                                                    # You can safely remove ~/clone/path
 
 ## What's included
 
