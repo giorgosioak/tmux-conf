@@ -1,4 +1,5 @@
 # Tmux Config
+### `⚠️ compatible with tmux v2.8 or lower`
 
 Personal config with custom theme and battery icon in tmux status-right.
 
@@ -8,7 +9,7 @@ Fast links: [Installation](#installation) > [What's included](#whats-included) >
 
 ### Dependencies
 
-**tmux** must be installed
+**tmux** must be installed `and should be version 2.8 or lower`
 
 ### Manual Installation
 
